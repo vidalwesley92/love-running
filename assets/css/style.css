@@ -113,7 +113,7 @@ main {
     color: #fafafa;
     margin-bottom: 20px;
 }
-text-input {
+.text-input {
     background: transparent;
     color: #fafafa; 
     width: 100%;
